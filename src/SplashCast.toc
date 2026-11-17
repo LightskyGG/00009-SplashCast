@@ -1,0 +1,11 @@
+## Interface: 120105, 16001
+## ExcludeLoadGameType: plunderstorm, wowhack
+## Title: SplashCast
+## Notes: One-key fishing. Bind a single key to cast and reel in the bobber, auto-equip your fishing pole, apply lures, and boost Master and Effects volume while the line is out. /splashcast to configure.
+## Version: 2026.11.16
+## Author: LightskyGG
+## SavedVariables: SPLASHCAST_CONFIG, SPLASHCAST_DATA
+## IconTexture: Interface\ICONS\ui_profession_fishing
+## AddonCompartmentFunc: SplashCast_AddonCompartmentCallback
+
+SplashCast.lua
