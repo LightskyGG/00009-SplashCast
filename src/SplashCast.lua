@@ -1,5 +1,3 @@
--- SplashCast: one key casts Fishing, then reels in the bobber. Optional master-volume boost while the line is out.
-
 -- Soft-target interact is how the game's Interact key reaches the bobber; widen it only while fishing.
 local SOFT = { softTargetInteract = "3", softTargetInteractRange = "45" }
 local MOD = { LSHIFT = 1, RSHIFT = 1, LCTRL = 1, RCTRL = 1, LALT = 1, RALT = 1, LMETA = 1, RMETA = 1 }
