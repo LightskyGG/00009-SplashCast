@@ -19,7 +19,7 @@ local function InitializeSavedVariables()
 end
 
 function ns.Print(message)
-	print("|cff33ccffSplashCast:|r " .. message)
+	print(("|cff33ff99%s|r: %s"):format(addonName, message))
 end
 
 local eventFrame = CreateFrame("Frame")
