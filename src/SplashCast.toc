@@ -2,7 +2,7 @@
 ## ExcludeLoadGameType: plunderstorm, wowhack
 ## Title: SplashCast
 ## Notes: One-key fishing. Cast and reel with a single key binding, auto-equip your pole, apply lures, and boost volume while the line is out.
-## Version: 2026.11.17
+## Version: 2026.11.21
 ## Author: LightskyGG
 ## SavedVariables: SPLASHCAST_CONFIG, SPLASHCAST_DATA
 ## IconTexture: Interface\ICONS\ui_profession_fishing
